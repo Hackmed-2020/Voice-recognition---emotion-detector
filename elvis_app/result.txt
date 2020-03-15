@@ -1,0 +1,28 @@
+Model doesn't contain information for SVR probability inference
+SMILE-RESULT::ORIGIN=libsvm::TYPE=regression::COMPONENT=arousal::VIDX=0::NAME=(null)::VALUE=-1.299857e-01
+Model doesn't contain information for SVR probability inference
+SMILE-RESULT::ORIGIN=libsvm::TYPE=regression::COMPONENT=valence::VIDX=0::NAME=(null)::VALUE=-4.787213e-02
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=emodbEmotion::VIDX=0::NAME=(null)::CATEGORY_IDX=6::CATEGORY=sadness::PROB=0;anger:0.000020::PROB=1;boredom:0.000063::PROB=2;disgust:0.003202::PROB=3;fear:0.000037::PROB=4;happiness:0.000032::PROB=5;neutral:0.000011::PROB=6;sadness:0.996635
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=abcAffect::VIDX=0::NAME=(null)::CATEGORY_IDX=1::CATEGORY=cheerful::PROB=0;agressiv:0.035642::PROB=1;cheerful:0.335992::PROB=2;intoxicated:0.130087::PROB=3;nervous:0.062423::PROB=4;neutral:0.140543::PROB=5;tired:0.295313
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=avicInterest::VIDX=0::NAME=(null)::CATEGORY_IDX=1::CATEGORY=loi2::PROB=0;loi1:0.117088::PROB=1;loi2:0.855847::PROB=2;loi3:0.027065
+Model doesn't contain information for SVR probability inference
+SMILE-RESULT::ORIGIN=libsvm::TYPE=regression::COMPONENT=arousal::VIDX=1::NAME=(null)::VALUE=-7.099441e-02
+Model doesn't contain information for SVR probability inference
+SMILE-RESULT::ORIGIN=libsvm::TYPE=regression::COMPONENT=valence::VIDX=1::NAME=(null)::VALUE=-6.348384e-02
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=emodbEmotion::VIDX=1::NAME=(null)::CATEGORY_IDX=1::CATEGORY=boredom::PROB=0;anger:0.015164::PROB=1;boredom:0.533268::PROB=2;disgust:0.049253::PROB=3;fear:0.021166::PROB=4;happiness:0.015788::PROB=5;neutral:0.173746::PROB=6;sadness:0.191615
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=abcAffect::VIDX=1::NAME=(null)::CATEGORY_IDX=4::CATEGORY=neutral::PROB=0;agressiv:0.034030::PROB=1;cheerful:0.183668::PROB=2;intoxicated:0.059626::PROB=3;nervous:0.098127::PROB=4;neutral:0.578897::PROB=5;tired:0.045653
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=avicInterest::VIDX=1::NAME=(null)::CATEGORY_IDX=1::CATEGORY=loi2::PROB=0;loi1:0.123234::PROB=1;loi2:0.867295::PROB=2;loi3:0.009471
+Model doesn't contain information for SVR probability inference
+SMILE-RESULT::ORIGIN=libsvm::TYPE=regression::COMPONENT=arousal::VIDX=2::NAME=(null)::VALUE=-1.247674e-01
+Model doesn't contain information for SVR probability inference
+SMILE-RESULT::ORIGIN=libsvm::TYPE=regression::COMPONENT=valence::VIDX=2::NAME=(null)::VALUE=-1.120785e-01
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=emodbEmotion::VIDX=2::NAME=(null)::CATEGORY_IDX=6::CATEGORY=sadness::PROB=0;anger:0.008130::PROB=1;boredom:0.366709::PROB=2;disgust:0.034606::PROB=3;fear:0.021555::PROB=4;happiness:0.011832::PROB=5;neutral:0.067939::PROB=6;sadness:0.489230
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=abcAffect::VIDX=2::NAME=(null)::CATEGORY_IDX=5::CATEGORY=tired::PROB=0;agressiv:0.035893::PROB=1;cheerful:0.286303::PROB=2;intoxicated:0.153263::PROB=3;nervous:0.011719::PROB=4;neutral:0.018992::PROB=5;tired:0.493830
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=avicInterest::VIDX=2::NAME=(null)::CATEGORY_IDX=1::CATEGORY=loi2::PROB=0;loi1:0.088879::PROB=1;loi2:0.862299::PROB=2;loi3:0.048822
+Model doesn't contain information for SVR probability inference
+SMILE-RESULT::ORIGIN=libsvm::TYPE=regression::COMPONENT=arousal::VIDX=3::NAME=(null)::VALUE=-2.327608e-01
+Model doesn't contain information for SVR probability inference
+SMILE-RESULT::ORIGIN=libsvm::TYPE=regression::COMPONENT=valence::VIDX=3::NAME=(null)::VALUE=-2.466956e-01
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=emodbEmotion::VIDX=3::NAME=(null)::CATEGORY_IDX=1::CATEGORY=boredom::PROB=0;anger:0.011319::PROB=1;boredom:0.543629::PROB=2;disgust:0.023145::PROB=3;fear:0.021723::PROB=4;happiness:0.017248::PROB=5;neutral:0.258205::PROB=6;sadness:0.124731
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=abcAffect::VIDX=3::NAME=(null)::CATEGORY_IDX=5::CATEGORY=tired::PROB=0;agressiv:0.002249::PROB=1;cheerful:0.001869::PROB=2;intoxicated:0.010867::PROB=3;nervous:0.000424::PROB=4;neutral:0.000558::PROB=5;tired:0.984032
+SMILE-RESULT::ORIGIN=libsvm::TYPE=classification::COMPONENT=avicInterest::VIDX=3::NAME=(null)::CATEGORY_IDX=1::CATEGORY=loi2::PROB=0;loi1:0.465868::PROB=1;loi2:0.527331::PROB=2;loi3:0.006801
